@@ -9,7 +9,6 @@ Non-Maximun Suppression- it is a technique to select the one entity (bounding bo
 2. imported the coco.names 
 3. imported the image using opencv
 4. loaded the weights and models
-5. 
 
 so by ensemble technique we are combining the two models where by updating the weights of the model 
     
